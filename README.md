@@ -1,4 +1,3 @@
-
 # Whale
 
 <!-- badges: start -->
@@ -19,7 +18,10 @@ devtools::install_github("harrisonpapa/Whale")
 
 ``` r
 library(Whale)
-## basic example code
+# basic example code
 say("Hello World!")
+
+# or you can use a pre generated phrase
+say()
 ```
 
