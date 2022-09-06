@@ -4,8 +4,9 @@ Title: Make a Whale say a phrase
 Version: 1.1
 Date: 2022-08-30
 Author: Harrison Papadimitriou
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Maintainer: Harrison Papadimitriou
+Description: With no parameter, say a whale pun.
+With a parameter, repeat the phrase.
 License: MIT + file LICENSE
 RoxygenNote: 7.2.1
 Imports: 
